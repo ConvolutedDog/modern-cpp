@@ -1,3 +1,5 @@
 *.o
 core.*
 test
+test.exe
+*.exe
